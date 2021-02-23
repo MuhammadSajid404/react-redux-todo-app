@@ -1,6 +1,6 @@
-# Redux TodoApp 
+# React Redux Todo App
 
-## First Assignment of Blockchain Q4
+## First Assignment of BC Q4
 
-### [Live Site](/)
+### [Live Site](https://react-redux-todo-app-sultan.herokuapp.com/)
 
